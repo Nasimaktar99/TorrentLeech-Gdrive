@@ -2,9 +2,9 @@ from tobrot.sample_config import Config
 #Fill your all data, read readme for reference
 
 class Config(Config):
-    TG_BOT_TOKEN= "1268fill---your----data"
+    TG_BOT_TOKEN= "1413573058:AAGjU8CwLLuIr6nV_vaw7z3_A7SmdlvmCzs"
     APP_ID = 1373938
-    API_HASH = "fill--your--data"
+    API_HASH = "cbb279159c065dbb3ab1e3160b004518"
     OWNER_ID = 12537936
     AUTH_CHANNEL = [-10082786282972]
     DESTINATION_FOLDER = "TorrentLeech-Gdrive" #Name of your folder read readme(not id of the folder)
